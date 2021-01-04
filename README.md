@@ -1,2 +1,2 @@
-# fusionpbx-script
+# fusionpbx-scripts
 FusionPBX script collection
